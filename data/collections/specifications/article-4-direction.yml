@@ -212,13 +212,13 @@ data:
 
         '
     name: article 4 direction area
-  end-date: ''
+  end-date: '2025-04-24'
   entry-date: '2023-09-11'
   name: Article 4 direction
   plural: article 4 directions
   specification: article-4-direction
   specification-status: candidate-standard
-  start-date: ''
+  start-date: '2025-04-08'
   version: 1.3.3
 display_name: Article 4 direction
 id: article-4-direction
