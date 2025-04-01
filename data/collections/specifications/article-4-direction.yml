@@ -214,7 +214,7 @@ data:
     name: article 4 direction area
   end-date: '2030-11-24'
   entry-date: '2023-09-11'
-  name: Article 4 direction
+  name: Article 4 directionxx
   plural: article 4 directions
   specification: article-4-direction
   specification-status: candidate-standard
