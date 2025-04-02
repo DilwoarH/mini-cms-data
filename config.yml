@@ -46,3 +46,14 @@ collections:
      - { id: "id", label: "ID", type: "string", default_value: "generate_uuid()", required: true }
      - { id: "title", label: "Title", type: "string", editable: true, required: true }
      - { id: "body", label: "Body", type: "text", editable: true, required: true }
+ - id: guidance_pagesx
+   label: Guidance pagesx
+   label_single: Guidance pagex
+   description: Guidance pages for planning datax
+   field_map:
+     id: id
+     display_name: title
+   fields:
+     - { id: "id", label: "ID", type: "string", default_value: "generate_uuid()", required: true }
+     - { id: "title", label: "Title", type: "string", editable: true, required: true }
+     - { id: "body", label: "Body", type: "text", editable: true, required: true }
