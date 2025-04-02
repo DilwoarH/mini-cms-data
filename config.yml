@@ -32,7 +32,7 @@ collections:
              id: field
              label: field
            fields:
-             - { id: "field", label: "Field", type: "string", required: true }
+             - { id: "field", label: "Field", type: "string", required: true, editable: true }
              - { id: "description", label: "Description", type: "text", editable: true }
              - { id: "guidance", label: "Guidance", type: "text", editable: true }       
  - id: guidance_pages
