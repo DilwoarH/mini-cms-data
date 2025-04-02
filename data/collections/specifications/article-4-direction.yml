@@ -114,23 +114,13 @@ data:
     - dataset: permitted-development-right
       description: a list of one or more <a href="#reference">reference</a> values
         for <a href="article-4-direction-rule-dataset">permitted development right</a>
-        entries, separated by a semi-colon ';'.
+        entries, separated by a semi-colon ';'...
       field: permitted-development-rights
-      guidance: 'A list of the permitted development rights withdrawn by the article
-        4 direction.
-
-
-        Separate the rights in the list using semicolons.
-
-
-        Only use rights from our [permitted development right dataset](https://www.planning.data.gov.uk/dataset/permitted-development-right).
-        If the area withdraws a permitted development right that is not in our dataset,
-        email digitalland@communities.gov.uk.
-
-
-        Example: `3D;3M;11B`
-
-        '
+      guidance: "A list of the permitted development rights withdrawn by the article\
+        \ 4 direction.\r\n\r\nSeparate the rights in the list using semicolons.\r\n\
+        \r\nOnly use rights from our [permitted development right dataset](https://www.planning.data.gov.uk/dataset/permitted-development-right).\
+        \ If the area withdraws a permitted development right that is not in our dataset,\
+        \ email digitalland@communities.gov.uk.\r\n\r\nExample: `3D;3M;11B`\r\n"
     - description: unique property reference numbers for any addressable properties,
         separated by `;`
       field: uprns
