@@ -85,7 +85,7 @@ data:
         Example: `1999-01-20`
 
         '
-    name: article 4 direction
+    name: article 4 direction z
   - dataset: article-4-direction-area
     fields:
     - description: the <a href="#reference">reference</a> for the article 4 direction
